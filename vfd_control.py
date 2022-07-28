@@ -59,7 +59,6 @@ while True:
 		drive_set = True
 
 			
-			
 		# If the drive mode has been set but the speed has not yet been set the get the speed setting from user and assign it to "speed_package"
 	if drive_set == True and speed_set == False:
 		speed_package = user_inputs.get_user_speed()
@@ -89,11 +88,3 @@ while True:
 		drive_set = False
 		speed_set = False
 		os.system('cls' if os.name == 'nt' else 'clear')
-		
-		
-		
-		
-
-		
-
-
