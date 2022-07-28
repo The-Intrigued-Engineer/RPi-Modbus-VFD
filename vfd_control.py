@@ -1,21 +1,24 @@
 """
 ######################################################################
 
-Simple Modbus Sensor Polling Code
-Coded By "The Intrigued Engineer" over a coffee
+VFD Control Over Modbus Code
+Coded By "The Intrigued Engineer" over a few coffees
 
 Minimal Modbus Library Documentation
 https://minimalmodbus.readthedocs.io/en/stable/
+
+Link to LS-M100 Datasheet:
+https://www.seva-tec.de/media/pdf/f5/58/72/SEVA-LS-M100-Manual-Frequency-Inverter.pdf
 
 Thanks For Watching!!!
 
 ######################################################################
 """
 
-import minimalmodbus
+import minimalmodbus 
 import user_inputs
 import Modbus_Settings as MB
-import stat_window as stat
+import stat_display as stat
 from time import sleep 
 import os
 import sys
