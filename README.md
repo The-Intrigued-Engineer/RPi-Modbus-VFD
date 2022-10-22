@@ -12,3 +12,5 @@ https://www.seva-tec.de/media/pdf/f5/58/72/SEVA-LS-M100-Manual-Frequency-Inverte
 Thanks For Watching!!!
 
 ######################################################################
+
+![thumbnail](https://user-images.githubusercontent.com/109388113/197361471-06740833-b1c6-4d0b-8ec4-2e9054e2c898.png)
